@@ -1,3 +1,17 @@
+# Directorios generados por Eclipse
+.settings/
+
+# Carpeta de salida de Maven
+target/
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
